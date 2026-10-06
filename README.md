@@ -1,12 +1,14 @@
 # Hi there, I'm Haniw Mejelin 👋
 
-Creative Explorer bridging the gap between high-contrast vector layouts, psychological literature composition, and deep system automation frameworks.
+Creative Explorer bridging the gap between high-contrast vector layouts, psychological literature composition, and cross-platform script, logic, and application architectures.
 
 ---
 
 ### 🎨 What I Do
-- **Visual & Brand Identity:** Crafting monochromatic and dark-themed minimalist assets, geometric vectors, corporate stationery setups, and clean media alignments.
-- **System Utilities & Scripts:** Developing automated environments, file system deep-scanners, process monitors, and programmatic command-line tools (CMD, PowerShell, VBScript).
+- **Systems & Core Programming:** Writing clean logic blocks and basic computational scripts utilizing the **C programming language**.
+- **Web Interface Layouts:** Constructing semantic, standard front-end frameworks and clean document structures using **HTML**.
+- **Cross-Platform Mobile Foundations:** Designing responsive interfaces and program workflows utilizing **Dart** and the **Flutter** ecosystem.
+- **System Utilities & Scripts:** Developing automated environments, file scanners, process monitors, and programmatic command-line tools (CMD, PowerShell, VBScript).
 - **Subconscious Architecture:** Writing psychological and analytical research prose mapping out human fear parameters, horror mechanics, and anomalies.
 
 ---
@@ -20,7 +22,8 @@ Creative Explorer bridging the gap between high-contrast vector layouts, psychol
 ---
 
 ### 🔧 Skills & Tooling
-- **Scripting & Logic:** Command Line Interface (CLI), PowerShell Core, VBScript hooks, Dart/Flutter foundations
+- **Programming & Scripting:** C, Dart, PowerShell Core, Command Line Interface (CLI), VBScript hooks
+- **Web & Application Frameworks:** HTML, Flutter UI System
 - **Design Suites:** Adobe Photoshop, Adobe Illustrator, Adobe Lightroom, Vector Grid Asset Compositions
 - **Production Environments:** Linux Deployment Variances, Windows Administrative Logic, VS Code Ecosystem
 
